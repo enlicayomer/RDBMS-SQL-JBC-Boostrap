@@ -1,2 +1,2 @@
-# RDBMS-SQL-JBC-Boostrap
+# RDBMS-SQL-JBBC-Boostrap
 Veritabanında çektiği kayıtları boostrap stilli tabloda listeler.
